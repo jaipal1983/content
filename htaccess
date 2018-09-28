@@ -1,0 +1,4 @@
+authname "secure website"
+authtype basic
+authuserfile /var/www/html/secret/.htpasswd
+require valid-user

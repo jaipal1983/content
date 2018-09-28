@@ -1,0 +1,17 @@
+it:
+- test1
+- test2
+- test3
+tcs:
+- rhel
+- fedora
+- centos
+
+
+blocked:
+- test1
+- test2
+- test3
+- rhel
+- centos
+- fedora
